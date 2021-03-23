@@ -2,8 +2,6 @@
 
 ## A passionate web developer focused on solving problems for a great user experience.
 
-<!--
-**andressagabrielle21/andressagabrielle21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🌱 Currently learning PHP and React.
 ## 📫 How to reach me: 
@@ -23,4 +21,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressagabrielle21&theme=nightowl)
 
--->
