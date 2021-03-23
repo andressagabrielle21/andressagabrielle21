@@ -20,5 +20,5 @@
 </p>
 
 ## 💹 My GitHub Stats: 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=andressagabrielle21&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressagabrielle21&theme=nightowl)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=andressagabrielle21&show_icons=true&theme=dracula)                    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressagabrielle21&theme=nightowl)
 
