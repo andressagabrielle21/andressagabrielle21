@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Andressa Gabrielle.
 
-## My name is Andressa and I'm a passionate web developer focused on solving problems for a great user experience.
+## A passionate web developer focused on solving problems for a great user experience.
 
 - 🌱 I'm currently learning PHP and React. 
 
@@ -20,7 +20,5 @@
 </p>
 
 ## 💹 My GitHub Stats: 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=andressagabrielle21&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressagabrielle21&theme=nightowl)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=andressagabrielle21&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressagabrielle21&theme=nightowl)
 
