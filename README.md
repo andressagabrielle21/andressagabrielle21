@@ -11,9 +11,15 @@
 </p>
 
 ## 🧰 Languages and Tools:
-![html-5](https://user-images.githubusercontent.com/25774210/132143214-4432823b-762d-4ce8-a02c-03a7da23c219.png)
+
 
 <p align="center">
+ ![html-5](https://user-images.githubusercontent.com/25774210/132143220-95cc9720-2e76-4479-a3f3-07fdb13ff83a.png)
+![css](https://user-images.githubusercontent.com/25774210/132143222-e133ef47-df64-4a33-82bf-195683dd608b.png)
+![sass](https://user-images.githubusercontent.com/25774210/132143225-f835d64c-1beb-417b-801e-b7c8568ada03.png)
+![javascript](https://user-images.githubusercontent.com/25774210/132143227-807db9f4-2f49-471f-a15d-ae3f9a53914a.png)
+![python](https://user-images.githubusercontent.com/25774210/132143228-ff595f10-f130-4d77-b0d8-de2582d1163c.png)
+
  
 <img src="![html-5](https://user-images.githubusercontent.com/25774210/132143165-b3231972-cb50-4de4-a85c-79d54affa5fd.png)">
 <img src="![css](https://user-images.githubusercontent.com/25774210/132143174-3332d506-3e96-4ee1-ac53-a186a2c73814.png)" alt="CSS" height="40" style="vertical-align:top; margin:4px"> 
