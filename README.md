@@ -11,7 +11,10 @@
 </p>
 
 ## 🧰 Languages and Tools:
+![html-5](https://user-images.githubusercontent.com/25774210/132143214-4432823b-762d-4ce8-a02c-03a7da23c219.png)
+
 <p align="center">
+ 
 <img src="![html-5](https://user-images.githubusercontent.com/25774210/132143165-b3231972-cb50-4de4-a85c-79d54affa5fd.png)">
 <img src="![css](https://user-images.githubusercontent.com/25774210/132143174-3332d506-3e96-4ee1-ac53-a186a2c73814.png)" alt="CSS" height="40" style="vertical-align:top; margin:4px"> 
 <img src="![sass](https://user-images.githubusercontent.com/25774210/132143181-d359b224-b15e-40d2-b1f4-5a3fa6fbd14a.png)" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
