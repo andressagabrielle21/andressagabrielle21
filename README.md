@@ -12,10 +12,11 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://www.flaticon.com/svg/vstatic/svg/888/888859.svg?token=exp=1616511072~hmac=9acc61c21e3aee1e3ba41321993c4f6f" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-<img src="https://www.flaticon.com/svg/vstatic/svg/919/919826.svg?token=exp=1616511093~hmac=55db3aea64a46e20b8bd65661fa6625d" alt="CSS" height="40" style="vertical-align:top; margin:4px"> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/JQuery_logo-512.png" alt="jQuery" height="40" style="vertical-align:top; margin:4px">
+<img src="![html-5](https://user-images.githubusercontent.com/25774210/132143165-b3231972-cb50-4de4-a85c-79d54affa5fd.png)">
+<img src="![css](https://user-images.githubusercontent.com/25774210/132143174-3332d506-3e96-4ee1-ac53-a186a2c73814.png)" alt="CSS" height="40" style="vertical-align:top; margin:4px"> 
+<img src="![sass](https://user-images.githubusercontent.com/25774210/132143181-d359b224-b15e-40d2-b1f4-5a3fa6fbd14a.png)" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+ <img src="![javascript](https://user-images.githubusercontent.com/25774210/132143187-a5b9cc03-89c7-4cb4-8ba9-10210bcc496f.png)" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="![python](https://user-images.githubusercontent.com/25774210/132143190-ca74e056-cefd-42b9-9e61-f26081a09712.png)" alt="Pyhton" height="40" style="vertical-align:top; margin:4px">
 
 </p>
 
