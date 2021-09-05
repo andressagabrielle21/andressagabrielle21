@@ -13,7 +13,7 @@
 ## 🧰 Languages and Tools:
 <center> 
 
-<img scr= ![html-5](https://user-images.githubusercontent.com/25774210/132143220-95cc9720-2e76-4479-a3f3-07fdb13ff83a.png)>
+<img scr= "![html-5](https://user-images.githubusercontent.com/25774210/132143220-95cc9720-2e76-4479-a3f3-07fdb13ff83a.png)">
 <img scr= ![css](https://user-images.githubusercontent.com/25774210/132143222-e133ef47-df64-4a33-82bf-195683dd608b.png)>
 
 ![sass](https://user-images.githubusercontent.com/25774210/132143225-f835d64c-1beb-417b-801e-b7c8568ada03.png)
