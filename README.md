@@ -14,9 +14,10 @@
 ![html-5](https://user-images.githubusercontent.com/25774210/132143220-95cc9720-2e76-4479-a3f3-07fdb13ff83a.png)
 ![sass](https://user-images.githubusercontent.com/25774210/132143225-f835d64c-1beb-417b-801e-b7c8568ada03.png)
 ![javascript](https://user-images.githubusercontent.com/25774210/132143227-807db9f4-2f49-471f-a15d-ae3f9a53914a.png)
-![png-clipart-react-javascript-angularjs-ionic-github-text-logo-thumbnail](https://user-images.githubusercontent.com/25774210/219975576-588a8749-c5c3-4a9b-89bc-b1c6a84eda91.png)
-![800px-Nextjs-logo svg](https://user-images.githubusercontent.com/25774210/219975644-1fbe2321-685c-4f64-bf49-b039a1244d47.png)
+![physics (2)](https://user-images.githubusercontent.com/25774210/219975905-f4014b6b-ab3c-4f41-9939-34ca14269159.png)
+![800px-Nextjs-logo svg](https://user-images.githubusercontent.com/25774210/219975912-bedd0056-bda2-4ecf-bef4-e10225e3fbb0.png)
 ![python](https://user-images.githubusercontent.com/25774210/132143228-ff595f10-f130-4d77-b0d8-de2582d1163c.png)
+
 
 
 
