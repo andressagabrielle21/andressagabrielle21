@@ -2,8 +2,8 @@
 
 ###
 
-<div style="display: flex, justify-content: space-between, align-items: center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=pt-br&hide_border=false&username=andressagabrielle21" height="150" alt="stats graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=andressagabrielle21" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&username=andressagabrielle21" height="150" alt="languages graph"  />
 </div>
 
@@ -16,8 +16,7 @@
 </p>
 
 ## 🧰 Languages and Tools:
-![html-5](https://user-images.githubusercontent.com/25774210/132143220-95cc9720-2e76-4479-a3f3-07fdb13ff83a.png)
-![sass](https://user-images.githubusercontent.com/25774210/132143225-f835d64c-1beb-417b-801e-b7c8568ada03.png)
+![typescript](https://github.com/andressagabrielle21/andressagabrielle21/assets/25774210/82a94475-c45e-45c8-be26-f70faa8c53ce)
 ![javascript](https://user-images.githubusercontent.com/25774210/132143227-807db9f4-2f49-471f-a15d-ae3f9a53914a.png)
 ![physics (2)](https://user-images.githubusercontent.com/25774210/219975905-f4014b6b-ab3c-4f41-9939-34ca14269159.png)
 ![800px-Nextjs-logo svg](https://user-images.githubusercontent.com/25774210/219975912-bedd0056-bda2-4ecf-bef4-e10225e3fbb0.png)
