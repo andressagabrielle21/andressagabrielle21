@@ -17,8 +17,8 @@
 
 ## 🧰 Languages and Tools:
 <p align="center"> 
-
-![typescript (1)](https://github.com/andressagabrielle21/andressagabrielle21/assets/25774210/76c57388-68de-4c1e-9692-daf7ae65b407)
+  
+![typescript (2)](https://github.com/andressagabrielle21/andressagabrielle21/assets/25774210/d2fb27c4-3fe5-4f77-ac5f-f53c745d6f44)
 ![javascript](https://user-images.githubusercontent.com/25774210/132143227-807db9f4-2f49-471f-a15d-ae3f9a53914a.png)
 ![physics (2)](https://user-images.githubusercontent.com/25774210/219975905-f4014b6b-ab3c-4f41-9939-34ca14269159.png)
 ![800px-Nextjs-logo svg](https://user-images.githubusercontent.com/25774210/219975912-bedd0056-bda2-4ecf-bef4-e10225e3fbb0.png)
