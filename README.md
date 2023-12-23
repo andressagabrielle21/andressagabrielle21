@@ -11,7 +11,7 @@
 
 ## 📫 How to reach me: 
 <p align="center">
- <a href="https://www.linkedin.com/in/andressa-gabrielle-souza-611857138/" target="_blank" rel="noopener noreferrer"> <img src="https://images.vexels.com/media/users/3/137382/isolated/preview/c59b2807ea44f0d70f41ca73c61d281d-logotipo-do-iacute-cone-do-linkedin-by-vexels.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/andressa-souza-611857138/" target="_blank" rel="noopener noreferrer"> <img src="https://images.vexels.com/media/users/3/137382/isolated/preview/c59b2807ea44f0d70f41ca73c61d281d-logotipo-do-iacute-cone-do-linkedin-by-vexels.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:andressagss21@gmail.com"> <img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="email" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
