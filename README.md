@@ -16,16 +16,11 @@
 </p>
 
 ## 🧰 Languages and Tools:
-![typescript](https://github.com/andressagabrielle21/andressagabrielle21/assets/25774210/82a94475-c45e-45c8-be26-f70faa8c53ce)
+<p align="center"> 
+![typescript (1)](https://github.com/andressagabrielle21/andressagabrielle21/assets/25774210/e58fb238-7dfb-459d-bc2e-79aa0b5815d4)
 ![javascript](https://user-images.githubusercontent.com/25774210/132143227-807db9f4-2f49-471f-a15d-ae3f9a53914a.png)
 ![physics (2)](https://user-images.githubusercontent.com/25774210/219975905-f4014b6b-ab3c-4f41-9939-34ca14269159.png)
 ![800px-Nextjs-logo svg](https://user-images.githubusercontent.com/25774210/219975912-bedd0056-bda2-4ecf-bef4-e10225e3fbb0.png)
 ![python](https://user-images.githubusercontent.com/25774210/132143228-ff595f10-f130-4d77-b0d8-de2582d1163c.png)
-
-
-
-
-
-## 💹 My GitHub Stats: 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=andressagabrielle21&show_icons=true&theme=dracula)                    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressagabrielle21&theme=nightowl)
+</p>
 
