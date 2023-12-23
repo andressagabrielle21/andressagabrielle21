@@ -1,8 +1,13 @@
-### Hi there 👋 I'm Andressa Gabrielle.
+<h2 align="left">Hi there 👋! My name is Andressa</h2>
 
-## A passionate web developer focused on solving problems for a great user experience.
+###
 
-- 🌱 I'm currently learning Typescript. 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=pt-br&hide_border=false&username=andressagabrielle21" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&username=andressagabrielle21" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ## 📫 How to reach me: 
 <p align="center">
