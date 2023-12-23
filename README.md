@@ -16,12 +16,13 @@
 </p>
 
 ## 🧰 Languages and Tools:
-<p align="center"> 
+<div align="center"> 
   
-![typescript (2)](https://github.com/andressagabrielle21/andressagabrielle21/assets/25774210/d2fb27c4-3fe5-4f77-ac5f-f53c745d6f44)
-![javascript](https://user-images.githubusercontent.com/25774210/132143227-807db9f4-2f49-471f-a15d-ae3f9a53914a.png)
-![physics (2)](https://user-images.githubusercontent.com/25774210/219975905-f4014b6b-ab3c-4f41-9939-34ca14269159.png)
-![800px-Nextjs-logo svg](https://user-images.githubusercontent.com/25774210/219975912-bedd0056-bda2-4ecf-bef4-e10225e3fbb0.png)
-![python](https://user-images.githubusercontent.com/25774210/132143228-ff595f10-f130-4d77-b0d8-de2582d1163c.png)
-</p>
+  ![typescript (2)](https://github.com/andressagabrielle21/andressagabrielle21/assets/25774210/d2fb27c4-3fe5-4f77-ac5f-f53c745d6f44)
+  ![javascript](https://user-images.githubusercontent.com/25774210/132143227-807db9f4-2f49-471f-a15d-ae3f9a53914a.png)
+  ![physics (2)](https://user-images.githubusercontent.com/25774210/219975905-f4014b6b-ab3c-4f41-9939-34ca14269159.png)
+  ![800px-Nextjs-logo svg](https://user-images.githubusercontent.com/25774210/219975912-bedd0056-bda2-4ecf-bef4-e10225e3fbb0.png)
+  ![python](https://user-images.githubusercontent.com/25774210/132143228-ff595f10-f130-4d77-b0d8-de2582d1163c.png)
+  
+</div>
 
